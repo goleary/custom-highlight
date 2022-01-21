@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@use-gesture/vanilla": "^10.2.4",
+    "jquery": "^3.6.0",
+    "text-fragments-polyfill": "^5.1.0"
+  }
+}
